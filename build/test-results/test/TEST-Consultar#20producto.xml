@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Consultar producto" tests="2" skipped="0" failures="0" errors="0" timestamp="2025-02-11T00:48:02" hostname="MANUELA17" time="2.214">
+  <properties/>
+  <testcase name="obtener producto id" classname="Consultar producto" time="0.934"/>
+  <testcase name="obtener producto id no creado" classname="Consultar producto" time="1.28"/>
+  <system-out><![CDATA[19:48:02.080 [Test worker] INFO   - 
+  _____   ___   ___   _____     ___   _____     _     ___   _____   ___   ___  
+ |_   _| | __| / __| |_   _|   / __| |_   _|   /_\   | _ \ |_   _| | __| |   \ 
+   | |   | _|  \__ \   | |     \__ \   | |    / _ \  |   /   | |   | _|  | |) |
+   |_|   |___| |___/   |_|     |___/   |_|   /_/ \_\ |_|_\   |_|   |___| |___/ 
+
+obtener producto id(consultar-producto;obtener-producto-id)
+--------------------------------------------------------------------------------
+19:48:02.979 [Test worker] INFO   - ?[92m
+  _____   ___   ___   _____     ___     _     ___   ___   ___   ___  
+ |_   _| | __| / __| |_   _|   | _ \   /_\   / __| / __| | __| |   \ 
+   | |   | _|  \__ \   | |     |  _/  / _ \  \__ \ \__ \ | _|  | |) |
+   |_|   |___| |___/   |_|     |_|   /_/ \_\ |___/ |___/ |___| |___/ 
+
+obtener producto id
+----------------------------------------------------------------------?[0m
+19:48:03.007 [Test worker] INFO   - 
+  _____   ___   ___   _____     ___   _____     _     ___   _____   ___   ___  
+ |_   _| | __| / __| |_   _|   / __| |_   _|   /_\   | _ \ |_   _| | __| |   \ 
+   | |   | _|  \__ \   | |     \__ \   | |    / _ \  |   /   | |   | _|  | |) |
+   |_|   |___| |___/   |_|     |___/   |_|   /_/ \_\ |_|_\   |_|   |___| |___/ 
+
+obtener producto id no creado(consultar-producto;obtener-producto-id-no-creado)
+--------------------------------------------------------------------------------
+
+19:48:04.257 [Test worker] INFO   - ?[92m
+  _____   ___   ___   _____     ___     _     ___   ___   ___   ___  
+ |_   _| | __| / __| |_   _|   | _ \   /_\   / __| / __| | __| |   \ 
+   | |   | _|  \__ \   | |     |  _/  / _ \  \__ \ \__ \ | _|  | |) |
+   |_|   |___| |___/   |_|     |_|   /_/ \_\ |___/ |___/ |___| |___/ 
+
+obtener producto id no creado
+----------------------------------------------------------------------?[0m
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
