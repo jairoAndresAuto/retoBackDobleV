@@ -1,1 +1,1 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="0" failures="0" name="Consultar producto" skipped="0" tests="2" time="0.05" timestamp="2025-02-10 07:48:02"><testcase name="obtener producto id"/><testcase name="obtener producto id no creado"/></testsuite>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="0" failures="0" name="Consultar producto" skipped="0" tests="2" time="0.07" timestamp="2025-02-10 08:17:47"><testcase name="obtener producto id"/><testcase name="obtener producto id no creado"/></testsuite>

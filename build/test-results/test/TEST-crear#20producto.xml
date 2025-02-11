@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="crear producto" tests="2" skipped="0" failures="0" errors="0" timestamp="2025-02-11T00:48:04" hostname="MANUELA17" time="2.859">
+<testsuite name="crear producto" tests="2" skipped="0" failures="0" errors="0" timestamp="2025-02-11T01:17:49" hostname="MANUELA17" time="2.172">
   <properties/>
-  <testcase name="Crear producto" classname="crear producto" time="1.645"/>
-  <testcase name="crear producto con error" classname="crear producto" time="1.214"/>
-  <system-out><![CDATA[19:48:04.364 [Test worker] INFO   - 
+  <testcase name="Crear producto" classname="crear producto" time="1.025"/>
+  <testcase name="crear producto con error" classname="crear producto" time="1.147"/>
+  <system-out><![CDATA[20:17:49.388 [Test worker] INFO   - 
   _____   ___   ___   _____     ___   _____     _     ___   _____   ___   ___  
  |_   _| | __| / __| |_   _|   / __| |_   _|   /_\   | _ \ |_   _| | __| |   \ 
    | |   | _|  \__ \   | |     \__ \   | |    / _ \  |   /   | |   | _|  | |) |
@@ -11,7 +11,7 @@
 
 Crear producto(crear-producto;crear-producto)
 --------------------------------------------------------------------------------
-19:48:05.970 [Test worker] INFO   - ?[92m
+20:17:50.376 [Test worker] INFO   - ?[92m
   _____   ___   ___   _____     ___     _     ___   ___   ___   ___  
  |_   _| | __| / __| |_   _|   | _ \   /_\   / __| / __| | __| |   \ 
    | |   | _|  \__ \   | |     |  _/  / _ \  \__ \ \__ \ | _|  | |) |
@@ -19,7 +19,7 @@ Crear producto(crear-producto;crear-producto)
 
 Crear producto
 ----------------------------------------------------------------------?[0m
-19:48:06.000 [Test worker] INFO   - 
+20:17:50.401 [Test worker] INFO   - 
   _____   ___   ___   _____     ___   _____     _     ___   _____   ___   ___  
  |_   _| | __| / __| |_   _|   / __| |_   _|   /_\   | _ \ |_   _| | __| |   \ 
    | |   | _|  \__ \   | |     \__ \   | |    / _ \  |   /   | |   | _|  | |) |
@@ -27,7 +27,7 @@ Crear producto
 
 crear producto con error(crear-producto;crear-producto-con-error)
 --------------------------------------------------------------------------------
-19:48:07.187 [Test worker] INFO   - ?[92m
+20:17:51.520 [Test worker] INFO   - ?[92m
   _____   ___   ___   _____     ___     _     ___   ___   ___   ___  
  |_   _| | __| / __| |_   _|   | _ \   /_\   / __| / __| | __| |   \ 
    | |   | _|  \__ \   | |     |  _/  / _ \  \__ \ \__ \ | _|  | |) |

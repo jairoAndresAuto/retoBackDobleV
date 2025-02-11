@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <testsuite name="co.com.practica.doblev.runners.ConsultarProductoCategoriaRunner" tests="0" skipped="0" failures="0" errors="0" timestamp="1970-01-01T00:00:00" hostname="MANUELA17" time="0.0">
   <properties/>
-  <system-out><![CDATA[19:47:53.313 [Test worker] INFO  n.thucydides.core.steps.StepEventBus - Loading JUnit Platform configuration parameters from classpath resource [junit-platform.properties].
-19:47:53.360 [Test worker] INFO   - ?[96m
+  <system-out><![CDATA[20:17:38.999 [Test worker] INFO  n.thucydides.core.steps.StepEventBus - Loading JUnit Platform configuration parameters from classpath resource [junit-platform.properties].
+20:17:39.046 [Test worker] INFO   - ?[96m
 
 -------------------------------------------------------------------------------------
      _______. _______ .______       _______ .__   __.  __  .___________.____    ____ 
@@ -19,8 +19,8 @@
  Join the Serenity Community on Gitter: https://gitter.im/serenity-bdd/serenity-core 
 -------------------------------------------------------------------------------------
 ?[0m
-19:47:53.384 [Test worker] INFO   - Test Suite Started: Consultar productos
-19:47:53.620 [Test worker] INFO   - Test Suite Started: Consultar productos
+20:17:39.062 [Test worker] INFO   - Test Suite Started: Consultar productos
+20:17:39.234 [Test worker] INFO   - Test Suite Started: Consultar productos
 ]]></system-out>
   <system-err><![CDATA[SLF4J: Class path contains multiple SLF4J providers.
 SLF4J: Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@4229bb3f]
