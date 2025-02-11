@@ -24,8 +24,6 @@ ejecutar casos de prueba<br>
 
 Los escenarios de back son los de crear producto, obtener producto categoria y obtener producto id, cada uno de los escenarios tiene el happy paths como el Unhappy paths. tambien tiene una data variable que es generada con data faker.
 
-Los escenarios de front son los de realizar compras en linea, algunos de los datos son generados aleatoriamente, adicionalmente cuanta con un ordenamiento tanto descendentemente como ascendentemente y se escribe cada ejecucion el ordenamiento de los datos sin borrar los anteriores dandole persistencia a los datos. Si el archivo no esta creado se creara en tiempo de ejecucion
-
 ### Estructura del Proyecto:
 
 [src/main/java/co/com/practica/doblev/interactions]() - consumo de los servicios de back <br>
